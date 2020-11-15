@@ -8,5 +8,5 @@ Pegue e configure sua API_KEY
 
 ##  images
 
-![Screenshot](screenshot_1.png)
-![Screenshot](screenshot_2.png)
+![Screenshot](/images/Screenshot_1.png)
+![Screenshot](/images/Screenshot_2.png)
